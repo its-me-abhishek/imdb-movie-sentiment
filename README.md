@@ -1,4 +1,5 @@
-# imdb-movie-sentiment
+# IMDb MOVIE SENTIMENT ANALYSIS
+
 Kaggle Datasets Links:
 
 Review-sentiment - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
